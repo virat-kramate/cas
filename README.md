@@ -120,3 +120,4 @@ Commercial support options may be [found here][cassupport].
 [apereocas]: https://www.apereo.org/projects/cas
 [springboot]: https://projects.spring.io/spring-boot/
 [springcloud]: https://projects.spring.io/spring-cloud/
+[Pilot training]: https://goldenepaulettes.com/how-to-become-pilot
